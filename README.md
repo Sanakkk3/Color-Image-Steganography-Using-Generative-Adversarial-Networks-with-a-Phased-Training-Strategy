@@ -1,6 +1,6 @@
 # Color-Image-Steganography-Using-Generative-Adversarial-Networks-with-a-Phased-Training-Strategy
 
-training set: 40,000 color spatial images
+training set: 40,000 color spatial images  
 traning order: R->B->G
 ## for training model
 ```
